@@ -1,10 +1,12 @@
 # world_time
 
-A new Flutter project.
+This project loads the time & date of any place you select from a list of locations. 
+
+I followed along a course by @NetNinja (Youtube).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For a guidethrough on how to open this project, please check out the following links. 
 
 A few resources to get you started if this is your first Flutter project:
 
